@@ -1,5 +1,5 @@
 # router-switch-hub-simulation
-simulate below device using sisco packet tracer
+simulated below device using sisco packet tracer
 
 <ol>
 <li> Hub</li>
