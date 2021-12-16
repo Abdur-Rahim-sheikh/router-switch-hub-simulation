@@ -8,7 +8,7 @@ simulated below device using sisco packet tracer
 
 <li> Switch VLAN single</li>
 <li> Switch VLAN with other switch </li>
-<ol>
+</ol>
 
 # Disclaimer: 
 Try to learn it don't copy it, i have sat
